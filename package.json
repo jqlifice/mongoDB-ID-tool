@@ -1,0 +1,11 @@
+{
+  "name": "fixMongo",
+  "version": "1.0.0",
+  "description": "replaces every occurance of argv[1] in argv[0] and outputs it to argv[0]_fixed.json",
+  "main": "mongoFixer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jqlifice",
+  "license": "ISC"
+}
